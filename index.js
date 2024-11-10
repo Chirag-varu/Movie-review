@@ -56,5 +56,10 @@ let getMovie = () => {
     }
 };
 
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Enter") {
+    getMovie();
+  }
+});
 searchBtn.addEventListener("click", getMovie);
 window.addEventListener("load", getMovie);
