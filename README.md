@@ -41,5 +41,7 @@ Contributions are welcome! Feel free to fork the project and submit pull request
 📄 License
 This project is open-source and available under the MIT License.
 
+💻Live link: https://movie-review-pi-roan.vercel.app/
+
 👤 Author
 Chirag Varu
