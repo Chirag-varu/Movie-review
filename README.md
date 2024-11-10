@@ -12,9 +12,11 @@ Synopsis (Brief storyline overview)
 Responsive Design: Works on both desktop and mobile screens.
 
 🖼️ Preview
-![Screenshot (3)](https://github.com/user-attachments/assets/2bd538f8-85f4-48d6-b928-80b6324a9ba0)
-![Screenshot (4)](https://github.com/user-attachments/assets/3ce21149-a59d-4c47-9f3b-afbc7df490dd)
-![Screenshot (5)](https://github.com/user-attachments/assets/4ae9299c-8e41-4795-8f6d-60229035f335)
+![Screenshot (3)](https://github.com/user-attachments/assets/90e32117-1b4e-4ae4-b591-98002bcc2e97)
+
+![Screenshot (4)](https://github.com/user-attachments/assets/2c603a38-358a-4791-a912-46aa1321ee5f)
+
+![Screenshot (5)](https://github.com/user-attachments/assets/8369d1ad-9d01-4510-ac82-029543a8f188)
 
 
 📦 Technologies Used
